@@ -10,7 +10,6 @@
 
 **Developer passionate about creating impactful solutions through code and automation**
 
-- 🔭 Currently working on **[DevBoard](https://github.com/AlgoAvatar/DevBoard)**
 - 🌱 Mastering **Web Development** and exploring new tech fields
 - 💡 Building **automation tools** and **real-world applications**
 - 🎯 **Motto:** Building automation and code for real-world impact
